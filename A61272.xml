@@ -1,0 +1,621 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian's inheritance a sermon at the funeral of the Reverend Gabriel Towerson ... : preach'd at Welwyn, Octob. 21, 1697 / by George Stanhope ...</title>
+            <author>Stanhope, George, 1660-1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61272</idno>
+            <idno type="STC">Wing S5222</idno>
+            <idno type="STC">ESTC R21949</idno>
+            <idno type="EEBO-CITATION">12619019</idno>
+            <idno type="OCLC">ocm 12619019</idno>
+            <idno type="VID">64459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 335:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian's inheritance a sermon at the funeral of the Reverend Gabriel Towerson ... : preach'd at Welwyn, Octob. 21, 1697 / by George Stanhope ...</title>
+                  <author>Stanhope, George, 1660-1728.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matt. Gillyflower ... H. Bonwick ... R. Sare ... and Matt. Wotton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Towerson, Gabriel, 1635?-1697.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Romans VIII, 17 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64459:1"/>
+            <p>
+               <hi>The Chriſtian's Inheritance.</hi>
+            </p>
+            <p>A SERMON AT THE FUNERAL Of the Reverend <hi>GABRIEL TOWERSON,</hi> DD. Late Rector of St. <hi>Andrew Underſhaft,</hi> and of <hi>Welwyn</hi> in <hi>Hertford-ſhire.</hi>
+            </p>
+            <p>Preach'd at <hi>Welwyn, Octob.</hi> 21. 1697.</p>
+            <p>By <hi>GEORGE STANHOPE,</hi> D.D. Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matt. Gillyflower</hi> in <hi>Weſt<g ref="char:EOLhyphen"/>minſter-Hall; H. Bonwick</hi> at the <hi>Red-Lion</hi> in St. <hi>Paul</hi>'s Church-yard; <hi>R. Sare,</hi> at <hi>Gray</hi>'s-<hi>Inn-Gate</hi> in <hi>Holborn;</hi> and <hi>Matt. Wotton,</hi> at the <hi>Three Daggers</hi> in <hi>Fleet-ſtreet.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:64459:2"/>
+            <pb n="3" facs="tcp:64459:2"/>
+            <head>
+               <q>
+                  <bibl>ROM. viii. 17.</bibl>
+                  <p>If Children, then Heirs, Heirs of God, and Joynt-heirs with Chriſt.</p>
+               </q>
+            </head>
+            <p>
+               <hi>BEhold what manner of Love the Father hath beſtow'd upon us, that we ſhould be call'd the Sons of God!</hi> ſays St. <hi>John,</hi> (1 Ep. III. 1.) but as if even that Love, wonderful as it is, were yet too little, behold another and great<g ref="char:EOLhyphen"/>er Privilege aſſerted to us by St. <hi>Paul!</hi> For, where<g ref="char:EOLhyphen"/>as among Men, tho' Parents may extend their Af<g ref="char:EOLhyphen"/>fection to all their Off-ſpring equally, yet Cuſtom and Convenience give Advantage to ſome Chil<g ref="char:EOLhyphen"/>dren above others in Point of Intereſt and For<g ref="char:EOLhyphen"/>tune, Our Heavenly Father's Bounty is as diffuſive as his Family, and the Prerogative of this Spiritual Race ſet much above that of Common Sons. For it is the unparallell'd Privilege of Chriſtians, to be like ſo many Firſt-born; We are not only ad<g ref="char:EOLhyphen"/>mitted to the Title of Children, but are joyn'd with God's Only-begotten in his Royalties and Poſſeſſions too, and have a Right of Inheritance convey'd to every one of us: Inſomuch that the Apoſtle here makes This to be a neceſſary Con<g ref="char:EOLhyphen"/>ſequence of the former; <hi>The Spirit it ſelf</hi> (ſays he) <hi>beareth witneſs with our Spirit, that we are the Children of God,</hi> (Ver. 16.) from whence he infers in the Words of my Text, <hi>And if Children, then Heirs, Heirs of God, and Joynt-heirs with Chriſt.</hi>
+            </p>
+            <pb n="4" facs="tcp:64459:3"/>
+            <p>My Intention from theſe Words at preſent is,
+<list>
+                  <item>I. <hi>Firſt,</hi> To give ſome Reaſons, why the Title of Good Men to the Happineſs and Rewards of the next World, ſhou'd be repreſented to us under the Notion of an Inheritance.</item>
+                  <item>II. <hi>Secondly,</hi> To ſhew what Influence this Con<g ref="char:EOLhyphen"/>ſideration ought, and may reaſonably be ex<g ref="char:EOLhyphen"/>pected, to have upon us: and then,</item>
+                  <item>III. <hi>Laſtly,</hi> To apply my ſelf, from the forego<g ref="char:EOLhyphen"/>ing Particulars, to the Occaſion of our aſſem<g ref="char:EOLhyphen"/>bling here together at this time. Of Theſe as fully, and yet as briefly too, as the Dig<g ref="char:EOLhyphen"/>nity of the Subject, and the Shortneſs of my Warning will permit.</item>
+               </list>
+            </p>
+            <p n="1">I. <hi>Firſt,</hi> I will lay before you ſome Reaſons, why, among other Repreſentations of our Hap<g ref="char:EOLhyphen"/>pineſs and Rewards in the next World, This in particular of an Inheritance ſhould be made choice of for the Comfort and Encouragement of Good Men: And They (among others which perhaps might properly enough be inſiſted upon) ſeem to be more eſpecially theſe Four that follow.</p>
+            <p>
+               <hi>Firſt,</hi> This might be done out of a gracious Deſign, to confirm our Hope, and eſtabliſh even an aſſur'd Expectation of our future Happineſs. We are told elſewhere in this Epiſtle, that
+<note n="*" place="margin">Ch. VI. 23.</note> 
+               <hi>Eter<g ref="char:EOLhyphen"/>nal Life is the Gift of God;</hi> And ſo it moſt eertain<g ref="char:EOLhyphen"/>ly is, and we are bound to believe, and thank<g ref="char:EOLhyphen"/>fully to receive it as ſuch; But in the mean while had This been propounded only as a <hi>Gift,</hi> that Term could never be a juſt Foundation,
+<pb n="5" facs="tcp:64459:3"/>for ſo firm and great a Degree of Confidence, as frail and wretched Mortals ſtand in need of, to carry them through all the Hardſhips and Tempta<g ref="char:EOLhyphen"/>tions of a dangerous and troubleſome World. For a Gift naturally implies ſomething ſo free and ar<g ref="char:EOLhyphen"/>bitrary in the Giver, as that it ſhou'd depend en<g ref="char:EOLhyphen"/>tirely upon his own mere Motion and Grace, whe<g ref="char:EOLhyphen"/>ther it ever be beſtow'd or not. But now by term<g ref="char:EOLhyphen"/>ing it an Inheritance, we are referred to the Me<g ref="char:EOLhyphen"/>thod of Father's ſetling Eſtates upon their Sons, for a true Underſtanding of Our Caſe. We can make out our Title, and produce the Deeds of Conveyance, even the ſure, the glorious Promiſes of <hi>Him who cannot lye,</hi> and <hi>whoſe Gifts are without repentance.</hi> The Antients, we know, never adopt<g ref="char:EOLhyphen"/>ed any, but with a deſign of conferring all the Ad<g ref="char:EOLhyphen"/>vantages of Natural-born Children upon them; and for that reaſon they took this Remedy, as a Supply for iſſue of their own. Our Heavenly Fa<g ref="char:EOLhyphen"/>ther hath adopted Us with the ſame kind In<g ref="char:EOLhyphen"/>tentions, though he cou'd not be driven to it by the ſame Neceſſity: And in thus doing he hath wonderfully interwoven His Bounty and Our Right. To that Bounty alone it is, that we owe our having any Title at all to everlaſting Bleſſed<g ref="char:EOLhyphen"/>neſs. But ſince he hath thought fit to admit us in<g ref="char:EOLhyphen"/>to the quality of Children, we are thenceforth allow'd to put in our Claim. And, provided we be guilty of no Offence, which may evacuate this Right, and provoke him to cut off the Entail; he is ſo far from condemning our Claim of Arro<g ref="char:EOLhyphen"/>gance and Preſumption, that he requires us to depend upon him for the making it good, and com<g ref="char:EOLhyphen"/>mends our Faith and filial Truſt when we do ſo.</p>
+            <pb n="6" facs="tcp:64459:4"/>
+            <p>
+               <hi>Secondly,</hi> As this manner of Expreſſion might be intended to beget in Good Men a more ſted<g ref="char:EOLhyphen"/>faſt Expectation of their future Happineſs, ſo might it likewiſe be choſen to check all unreaſonable o<g ref="char:EOLhyphen"/>pinion of their own Performances. When the the Scriptures, in ſome other Paſſages, declare That Happineſs to be the Reward of Men's Obe<g ref="char:EOLhyphen"/>dience, Partiality, and the dear Love of our Selves, are apt to ſtep in, and blow us up with lofty Ima<g ref="char:EOLhyphen"/>ginations of I know not what mighty Deſert in us. How apt Humane Nature is to indulge theſe Swellings of the Mind, and to perſuade it ſelf, that even the Word of God hath countenanc'd ſuch Vanity, we need not go far to learn. The wicked, and but too ſucceſsful Pains will teach us, which have been taken in ſome other Communi<g ref="char:EOLhyphen"/>ons
+<note n="*" place="margin">Si quis dix<g ref="char:EOLhyphen"/>erit Hominis juſtificati bo<g ref="char:EOLhyphen"/>na opera ita eſſe dona Dei, ut non ſint etiam bona ipſius juſtifi<g ref="char:EOLhyphen"/>cati merita, aut ipſum ju<g ref="char:EOLhyphen"/>ſtificatum bo<g ref="char:EOLhyphen"/>nis operibus —non <hi>verè</hi> mereri aug<g ref="char:EOLhyphen"/>mentum gra<g ref="char:EOLhyphen"/>tiae, vitam ae<g ref="char:EOLhyphen"/>ternam, &amp; ipſius vitae aeternae-con<g ref="char:EOLhyphen"/>ſecutionem atque etiam gloriae aug<g ref="char:EOLhyphen"/>mentum, ana<g ref="char:EOLhyphen"/>thema ſit. <hi>Conc. Trident. Seſſ.</hi> VI. <hi>Can.</hi> XXXII.</note>, to bring Men off from the too mean and mortifying thoughts of their own Unworthineſs, and to exalt them with a Belief that they are able even to Merit at the Hands of their Great Ma<g ref="char:EOLhyphen"/>ſter and Maker. Thus far is true indeed, That God requires Sincerity and Good-works, and hath appointed Theſe as the Condition of our Happi<g ref="char:EOLhyphen"/>neſs: But alas! there is a very wide difference between beſtowing that Happineſs, for the ſake, and ſtrictly upon the account of our Services, and declaring, that he will not beſtow it without them. And, if we rightly conſider the Matter, it will be found, I think, that the Promiſing Hea<g ref="char:EOLhyphen"/>ven under the Notion of an Inheritance, does effectually overthrow all ſuch inſolent Pretenſi<g ref="char:EOLhyphen"/>ons. God hath not hereby engaged to admit the Diſobedient and Refractory: 'Tis true. Stubborn<g ref="char:EOLhyphen"/>neſs or Apoſtacy may alter the Caſe ſtill, and
+<pb n="7" facs="tcp:64459:4"/>blaſt our moſt promiſing Hopes: but it will not follow from thence, that thoſe hopes of Inheriting have our own Works, (even as done in obedience to, and by the Grace of Chriſt) for their pro<g ref="char:EOLhyphen"/>per, and adequate, and only Foundation. Sup<g ref="char:EOLhyphen"/>poſe a Servant of the greateſt Diligence imagina<g ref="char:EOLhyphen"/>ble, His Behaviour may poſſibly deſerve better of the Family, than That of any Child in it: But yet the greateſt Diligence will not procure that Servant an equal Share of Affection with thoſe Children, nor any Title to the Eſtate among them. This Inſtance makes it plain, that the ſtanding in ſuch a Capacity, and bearing ſuch a particular Relation to the Maſter and Diſpoſer of thoſe Poſſeſſions, is the true and fundamental Ground of Inheritance; and accordingly we find the Streſs of St. <hi>Paul</hi>'s Argument in my Text laid here, <hi>If Children then Heirs.</hi>
+            </p>
+            <p>The Doctrine then of <hi>meriting by Works,</hi> pro<g ref="char:EOLhyphen"/>perly ſo call'd; and the Notion of <hi>inheriting the Kingdom of Heaven,</hi> can never ſtand together; Becauſe our Pretenſions to inherit commence with our Son-ſhip, and depend upon our Second and Spiritual Birth. Now it is acknowledg'd on all hands, and affirmed by this Apoſtle (Ver. 15.) that we are the <hi>Sons of God by Adoption,</hi> and that this is a Privilege owing wholly to Chriſt, and peculiar to Faith in Him. It is alſo confeſt, that we become Sons, and conſequently Heirs in our Baptiſm. So that (by the Practice of even Thoſe who ſtand up for the merit of Good Works) the Generality of Chriſtians are now admitted to a Right of Inheritance, at a time when they can<g ref="char:EOLhyphen"/>not have any Works of their own at all. And
+<pb n="8" facs="tcp:64459:5"/>tho' it ſhou'd be granted, that what is promiſed then, be, in the Eye of God, look't upon as per<g ref="char:EOLhyphen"/>form'd, with regard to the Intention of the En<g ref="char:EOLhyphen"/>gagers, and the preſent Incapacity of the Party promiſed for, yet even thoſe Works which fol<g ref="char:EOLhyphen"/>low after, are not ſo much the Cauſe, as the Proof of our being Children. They demonſtrate us to be faithful indeed; They convince the World that we anſwer our Character; and They ſupport the Conſcience with unreprovable Aſſurances, that provided we perſevere in doing ſo, we ſhall not fail hereafter to be in actual Poſſeſſion, thoſe happy glorious Heirs, which at preſent we can but be in Expectation and Re<g ref="char:EOLhyphen"/>verſion only.</p>
+            <p>
+               <hi>Thirdly,</hi> By being ſtyled Heirs of God, we are inform'd, how ſtable and laſting a Good this Happineſs will prove. The Certainty of it with reſpect to Us I have already ſpoken to in my Firſt Particular; That which I regard at preſent is the Continuance and Certainty of the Thing in it ſelf. All other Tenures are ſubject to Limitati<g ref="char:EOLhyphen"/>ons, and determine at a certain Period of Time; but Eſtates of Inheritance know no term of Years; Theſe deſcend on in the ſame Line, and are as ſure as any thing, in the changeable State of Affairs we now live in, can poſſibly be made. When therefore the Holy Spirit makes choice of this Compariſon, he juſtifies thoſe Comforts Good Men take, that a ſmall Matter will not ſhake their Title to Heaven at this diſtance; And that, when once thoſe Joys are in our Hands, nothing can ever deprive us of them more. I know ve<g ref="char:EOLhyphen"/>ry well, they have enough to command our Eſteem,
+<pb n="9" facs="tcp:64459:5"/>and engage our very vehement Purſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, with<g ref="char:EOLhyphen"/>out reſpecting then Continuance; and that a lon<g ref="char:EOLhyphen"/>ger or a ſhorter Term does not change the na<g ref="char:EOLhyphen"/>ture of Things, but is a foreign and additio<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Perfection only. But yet methinks we may al<g ref="char:EOLhyphen"/>low this Conſideration to have more weight with regard to Another World, than it can poſ<g ref="char:EOLhyphen"/>ſibly carry in any temporal Enjoyment whatſo<g ref="char:EOLhyphen"/>ever: And it may be ſaid with great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that the Life to come could never make us <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ap<g ref="char:EOLhyphen"/>py, if it were not Eternal. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it could no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but be a terrible Diſturbance and Damp to thoſe Pleaſures, to think that they muſt one Day be parted with. And, though that Day were ſet at never ſo great a diſtance, yet the Mind of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is perpetually looking for ward and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ally d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>po<g ref="char:EOLhyphen"/>ſed to anticipate <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miſeries. I need not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rge with Argaments <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what all of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> feel at this very Moment, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tality now before us, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have what we highly value, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> love, torn from us. And the more <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Con<g ref="char:EOLhyphen"/>cern this preſent Affliction gives us, the mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eaſily may we convince <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Loſs, and how <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> loſing That Bliſs muſt needs be, to which no Good on Earth can bear any Proportion.</p>
+            <p>So then, The more re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in'd and worthy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ceptions we have of Heaven in other Reſpect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the more abſolute neceſſity we find, for the co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pleating our Happineſs there, to conceive off <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Continuing City, and a Manſion of Ev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>laſting Glory. For it could n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t be Heaven, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:64459:6"/>for our Contemplations and Hopes to dwell upon it, with a perfect Acquieſcence, and untroubl'd Satisfaction, were we not well aſſured, that the Joys of it out-live the utmoſt ſtretch of Time, and are <hi>ſuch as no Man taketh from us.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> By this Similitude of an Inheritance the Scripture might deſign to intimate, the ſuf<g ref="char:EOLhyphen"/>ficient, the plentiful, the exceeding abundant Pro<g ref="char:EOLhyphen"/>viſion, made for every Heir of this Bount<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Heavenly Father. Younger Branches of a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly, we know, muſt be content with ſuch Pro<g ref="char:EOLhyphen"/>portions, as their Parent's Wiſdom thinks fit to ſet out for them: And this is moſt commio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done with great Tenderneſs and Caution; reſe<g ref="char:EOLhyphen"/>ving the Honour and Eſtate of the Houſe to be ſupported by the Heir himſelf. But We, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeems) are All of us <hi>Heirs of God, and Joy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Heirs with Chriſt;</hi> not put off with the too <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ring Diſtributions of a partial Father, but admit<g ref="char:EOLhyphen"/>ted into a full and equal Enjoyment of the Whol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. For, though the Inheritances upon Earth are con<g ref="char:EOLhyphen"/>ſin'd to One, or a very Few, and muſt be for becauſe they are ſhort and narrow, yet the Heaven<g ref="char:EOLhyphen"/>ly one is much otherwiſe, by reaſon of its infinite. Nature and Extent; A Nature and Extent for large and vaſt, that not no one Perſon hath a wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the leſs for any other Perſons great Abundance. It is an Excellency peculiar to this Heritage, that (according to
+<note n="*" place="margin">Haereditus, in quâ Chriſti coheredes ſumus, non mirtuitur copiâ Poſſeſſorum; nec fit anguſtior numeroſitate cohaeredum; ſed tanta eſt multis quanta paucis; tanta ſingulis, quanta omnibus Comm. in Pſalm. XLIX.</note> St. <hi>Auſtine</hi>'s deſcription of it) <hi>The
+<pb n="11" facs="tcp:64459:6"/>Plenty which the Poſſeſſors find and uſe there, never diminiſhes the Thing poſſeſſed: Nor does the in<g ref="char:EOLhyphen"/>numerable Multitude of Partakers cramp up any Man's Enjoymant, or incroach upon his Parti<g ref="char:EOLhyphen"/>on. It is as large to Many as to Few; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> each ſingle Poſſeſſor enjoys it as fully as all put toge<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>Indeed the Proportions of our Bliſs are ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from being ſcanty there, that all conſidering <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſons have believ'd one part of it to conſiſt in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Enlarging and Exalting our Faculties, and putting us into a Condition of receiving more then, than now we are capable ſo much as of imagining. Should thoſe Joys be imparted to us in this mor<g ref="char:EOLhyphen"/>tal imperfect State, a ſmall meaſure of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in compariſon, would overwhelm <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> let in Pleaſures, Torrents of Pl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ces too many and too exquiſite for frail Nature <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. What vaſt Idea's then ſhould we <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to forth; what a thankful Senſe ſhould we alway<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, preſerve of our Gracious Father's Love, whoſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all we can receive; and, rather than we <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be ſtinted in our Happineſs, prepares and qual<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fies our Minds to receive yet more and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> What Care can be too <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> an Inheritance as This? What Eſteem, what De<g ref="char:EOLhyphen"/>ſire, what Eagerneſs too great? What noble and excellent Effects ſhould the very hope and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſpect of it, even at this diſtance, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> More indeed and greater tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e poſſible for me worthily to deſcribe, or convenient at this time to attempt; let it ſuffice therefore <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> touch upon <hi>Four,</hi> in proportion to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſiderations
+<pb n="12" facs="tcp:64459:7"/> already treated of, and more immedi<g ref="char:EOLhyphen"/>ately reſulting from them. And the repreſenting theſe to you was what I propounded in the be<g ref="char:EOLhyphen"/>ginning of this Diſcourſe, for my Second General Head.</p>
+            <p n="2">II. <hi>Firſt</hi> then, From the Confirmation of our Hope and Aſſurance of Everlaſting Bleſſedneſs a<g ref="char:EOLhyphen"/>riſing from its being repreſented as an Inheritance, 'tis plain there ought to proceed a juſt Value and Veneration for thoſe Divine Writings, which a<g ref="char:EOLhyphen"/>ſcertain this Title to us. For, beſides the Ad<g ref="char:EOLhyphen"/>vantage which the Scriptures have above all other Books, conſider'd barely as a Rule of Manners there is this unqueſtionable Preference due to them, that they diſcover to us the Nature of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Souls, and their Condition in another World, much more clearly, than Mankind ever did or could have found without them. <hi>Life and Im<g ref="char:EOLhyphen"/>mortality</hi> are moſt truly ſaid to be <hi>brought to light through the Goſpel,</hi> ſince here alone we meet with a diſtinct Account of all God's Diſpenſations con<g ref="char:EOLhyphen"/>cerning us, and can trace the ſeveral dark myste<g ref="char:EOLhyphen"/>rious Steps both of our Miſery and Salvation: What we were originally by Nature, What after<g ref="char:EOLhyphen"/>wards by Corruption, and What ſince by Grace; How full of Death and Deſpair our Condition was formerly; and to what a <hi>lively hope</hi> this Hea<g ref="char:EOLhyphen"/>venly Father hath now <hi>begotten us again.</hi> So that from hence we derive all our Dependencies; and in this Great Charter of Mercies and Privileges are contain'd both our Conveyances of Right, and the Conditions of our obtaining it.</p>
+            <pb n="13" facs="tcp:64459:7"/>
+            <p>And now, If Theſe be the Contents of this moſt Holy Book, O! with what Reverence ſhould we embrace, O! with what Diligence ſhould we peruſe it? Obſerve the pardon'd Malefactor, what reſpect he pays to that Act of Grace, which gives his forfeit Life; ſee the longing Heir, how ten<g ref="char:EOLhyphen"/>derly he values his Deeds of Settlement and En<g ref="char:EOLhyphen"/>tail; or imagine, if that be poſſible, what delight the greedy Worlding takes in his Bills, and his Bonds, and his Mortgages, with what gle<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he ſpends Hours and Days in conſidering the Advan<g ref="char:EOLhyphen"/>tages to be made from them, and providing a<g ref="char:EOLhyphen"/>gainſt any Forfeiture, which might be incurr'd by neglecting the Terms of his Covenants; And then give me leave to acquaint you, that all theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Eſteem, and Gratitude, and prudent Car<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are much more due to the Bleſſed Wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ings of God. For Theſe are the Inſtruments <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Releaſe from a Miſery worſe than ten thouſand; Deaths; and Settlements of <hi>an Inheritance incoruptible, undefiled; and that fadeth not away for ever in the Hea<g ref="char:EOLhyphen"/>vens.</hi>
+            </p>
+            <p>Is it not then a moſt intolerable Reproach <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſtians ſhall ſuffer this Divine Volume <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neglected? That They, whoſe beſt Hopes are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly here, ſhall ſo far forget the conſequence of it to them, as even to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Wearineſs to lay out any part of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pains upon a right underſtanding of it? <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ay (which is moſt abſurd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> monſtrous) that Any who call themſelves by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Name, ſhould <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their impotent Malice and wicked, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Flaws in their own <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to
+<pb n="14" facs="tcp:64459:8"/>make the World believe, that theſe Inſtruments are no better than Frauds and Forgeries, and that the only Mark of Men of Senſe, is to reaſon them<g ref="char:EOLhyphen"/>ſelves out of Heaven and Immortality? But I have neither Time nor Inclination to purſue that juſt Indignation any further, which no good Man can be inſenſible of at theſe daring Profanations of God and his Reveal'd Will; ſuch as ought not even to be nam'd but with deteſtation, and cannot be en<g ref="char:EOLhyphen"/>dured, without expoſing not only Men's Sould but even their Civil Rights and Temporal Sa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to manifeſt hazard and inconvenience. For Cor<g ref="char:EOLhyphen"/>ruption of Principles naturally ſlides into Di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>luteneſs of Manners; and ſome of the Groun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon which Reveal'd Religion is rejected, if <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſu'd through all their juſt Conſequnnces, will ce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tainly deſtroy the Natural too; and over thro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not only the Communications, but even the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Being of God Himſelf. But to return from this moſt unwilling Digreſſion, (which Wo to this wicked Generation among whom we live; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there is any occaſion for:) I proceed to put you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mind,</p>
+            <p>
+               <hi>Secondly,</hi> That, As the repreſenting our Title to Heaven by an Inheritance might be intended to abate all unreaſonable Opinion of our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Merits, So the reſult of it is An Obedience recom<g ref="char:EOLhyphen"/>mended by true Thankfulneſs and profound H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mility. Almighty God hath taken the Courſe of all prudent Fathers, who, tho' they deny their Children no Teſtimony of their Affection that can in reaſon be thought fit for them; yet al<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, keep it in their own Power to puniſh their Ob<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nacy
+<pb n="15" facs="tcp:64459:8"/>and undutiful Behaviour. And thus We Chriſtians want no Ground for Hope, but we have not the leaſt foundation for Security and Preſumption. Our Condition is that of Children indeed, and This implies much Tenderneſs and great Compaſſion; that our Weakneſſes ſhall be pity'd, our Heats of Youth pardon'd, our Spots overlook'd, provided ſtill they be Spots of God's, Children; ſuch only as proceed from Inadvertence, or Infirmity, and not from any ſettl'd purpoſe to of<g ref="char:EOLhyphen"/>fend. The right uſe therefore of this. Title is to improve ſuch Kindneſs into the ſtricteſt and moſt effectual Engagements of Love and Duty to ſo good a Father; To remember, that we are ſtill upon our good Behaviour, and though Heirs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heirs expectant only; That even our being ſuch is meerely from Another; that our Sonſhip, not our Deſert, conferr'd the Title; and that it is wholly and ſolely through the Only Begotten and Belo<g ref="char:EOLhyphen"/>ved, that We have this acceſs to, or are at all accepted of the Father. That ſo glonours a Re<g ref="char:EOLhyphen"/>ward then is appointed for our poor and partial, our imperfect and unworthy Labours, we owe to the Grace and Munificence of the Almighty Di<g ref="char:EOLhyphen"/>ſpoſer
+<note n="*" place="margin">Si gratia vo<g ref="char:EOLhyphen"/>catur, gratis datur: ſi gra<g ref="char:EOLhyphen"/>tis datur, nul<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> praeceſſe<g ref="char:EOLhyphen"/>runt merita tua, ut detur. Nam ſi praeceſſerunt merita tua, me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces non imputatus ſecundum Gratiam, ſed ſecundum Debitum. Si ergo dicis praceffiſſe merita tua, te vis laudari, non Deum: —Conve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ergo te ad merita<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, vid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> illa mala fuif<g ref="char:EOLhyphen"/>ſe; ut non tibi deberetur niſi ſupplicum, non praemiu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> videris quid tibi per meritum debeatur, agnoſcis <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>id per gratiam <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſacrificio laudis glorificas Deum. <hi>Auguſtin. in Pſal.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>in fine.</hi>
+               </note>, and the inexpreſſible Love of the Mari<g ref="char:EOLhyphen"/>torious Purchaſer: But ſtill God's hands are not ty'd up by this exuberant Goodneſſ, ſo as that no Contumacy ſhou'd cancel our Title; nor is He
+<pb n="16" facs="tcp:64459:9"/>that <hi>is greateſt in the Kingdom of Heaven</hi> above acknowledging himſelf <hi>leſs than the leaſt of all the Mercies, and of all the Truth,</hi> which he condeſcends to ſhew his obedient Children, and faithful Ser<g ref="char:EOLhyphen"/>vants.</p>
+            <p>
+               <hi>Thirdly,</hi> Look upon this Notion of an Inheri<g ref="char:EOLhyphen"/>tance as denoting the Continuance of our Happi<g ref="char:EOLhyphen"/>neſs in the next World; and thus it may reaſo<g ref="char:EOLhyphen"/>nably be expected to reconcile the Thoughts of Death to our Minds. So, I mean, as both to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tigate our own Fears of it, and to abate our Con<g ref="char:EOLhyphen"/>cern for the Friends who are taken away from us. And This would be a very conſiderable Ad<g ref="char:EOLhyphen"/>vantage indeed; For it is certain, that no Caſe ſtands more in need of Conſolation and Supp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> than when we either come to die our ſelves <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to part with Thoſe who are very uſeful and dear to us.</p>
+            <p>Now the natural Averſion to Soul and Body ſeparating, may well be allow'd to coſt us ſome Diſorder, when we find there is no Remedy but theſe two kind Companions muſt be torn aſun<g ref="char:EOLhyphen"/>der, and that the great Encounter with our laſt dreadful Enemy approaches. And yet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miſeries of the preſent Life are ſo many, the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>joyments and Advantages of it ſo difficult to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> attained, and ſo defective if ever they be attain<g ref="char:EOLhyphen"/>ed, that Many conſidering Heathens have thought leaving the World no ſuch mighty matters; A World, which, to all who make a true eſtimate of it, is ſo vain at beſt, and withal ſo uncertain, that it could never appear worth a conſidering <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> while to take up his reſt, and abide for ever<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t.</p>
+            <pb n="17" facs="tcp:64459:9"/>
+            <p>But, I confeſs, Chriſtianity hath diſcover'd ano<g ref="char:EOLhyphen"/>ther very juſt ground of Fear, which the Heathen World could not be ſo ſenſible of. For if Death be conſider'd as that which conſigns us over to Judgment, and if upon that Judgment depend <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Doom irreverſible to all Eternity; No wonder if this caſt ſome Men into a mighty Conſternation and Dread. Such whoſe Lives have been what they cannot think of rendring any tolerable ac<g ref="char:EOLhyphen"/>count for; but are ſentenc'd by their own guilty Conſciences before-hand, and ſadly ſenſible, that to die will be ſo far from finiſhing, that it is like to prove to Them the beginning of Sorrows. Now I deſire it may be conſider'd; that my pre<g ref="char:EOLhyphen"/>ſent Argument is of no force to abate of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fear; nor hath either my Text nor any Paſſage in the whole Goſpel, one Syll<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge of Comfort, for Men that die in the Terrors of obſtinate and unrepented Wickedneſs. The only help for wick<g ref="char:EOLhyphen"/>ed Men is this, not to ſpend their time in vai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lamentations and idle Amazements, begin in good earneſt to amend their Lives. And then as they grow more fit for Death and Judgment, by the very ſame Proportions they will feel their fear of theſe things grow leſs.</p>
+            <p>My Buſineſs therefore is with Chriſtians, not barely in Word and Profeſſion, but alſo in Deed and in Truth. And whatever Loathneſs to leave the World theſe Men may find in themſelves, may be very much brought <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er by ſerious and frequent Reflections upon <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heritance <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> now under Conſideration and by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Scriptures, which deſcri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and recommend and
+<pb n="18" facs="tcp:64459:10"/>promiſe, and aſſure it to us. Their Heart by this means will be where their Chief Treaſure is Their Souls will looſen by degrees, and their Affections be wean'd from this World, and all it can pre<g ref="char:EOLhyphen"/>tend to, upon a thorough Conviction, how falſe and floating, how empty and trifling all is here below; and how pure and exalted, how fixt and durable, how ſolid and ſatisfactory thoſe Pleaſures are, which God hath prepared for Good Men; How ample a Recompence they make even his the moſt difficult Services; and how far they one weigh all that we can poſſibly undergo for the obtaining them. Outweigh, did I ſay? pardon me for putting them into the Balance together: To name them at the ſame time is in ſome <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to diſparage them; for ſo St. <hi>Paul</hi> hath told us in the very next Verſe; <hi>I reckon that the Sufferings of this preſent time are not worthy to be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>red with that Glory which ſhall be revealed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us.</hi>
+            </p>
+            <p>And now, What ſhould hinder the Mind of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good and a conſidering Man from meeting Death with Courage and Comfort, and looking upon the Sickneſs which uſhers it in, as the Meſſenger of Good News to him? For, Is it not ſo, to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tranſlated, not only to the End, but to the Fruit and exceeding great Reward of all his Care and Toil? Is it not ſo, to exchange a decaying and troubleſome State, for One, whoſe moſt ex<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſite Joys are without any Interruption, without any Concluſion? And, though Fleſh and Bloo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will ſtart and give back, and even This ſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> change cannot yet be made without the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing
+<pb n="19" facs="tcp:64459:10"/>Ceremonies of Agonies and Convulſions, yet the Comforts of a Devout Mind muſt needs he much enlarged upon the nearer approaches to Bliſs; as that new Scene of Things opens upon it by de<g ref="char:EOLhyphen"/>grees, and gives a more diſtinct View of that glo<g ref="char:EOLhyphen"/>rious and beautiful Place into which the Man is entring. And We; whoſe Office calls us to wait about Death-beds, can ſometimes obſerve ſuch Peace of Conſcience, ſuch Calmneſs and Content, ſuch Lightnings of a Soul upon its Flight, ſuch overflowing Comforts, and raviſhing Tranſports, as, notwithſtanding all the fallacy of that diſor<g ref="char:EOLhyphen"/>der and painful ſtruggle in the viſible and out<g ref="char:EOLhyphen"/>ward Man, do fully perſuade us, that no Men ſtay behind in the World, half ſo happy, or ſo well ſatisfy'd, as Theſe Men go out of it.</p>
+            <p>The Bleſſings of our Future <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, even in this diſtant Proſpect, might reaſonably <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e expected to put us upon the Wing, and tempt us almoſt to run into the Arms of Death, out of meer Impa<g ref="char:EOLhyphen"/>tience to get at them. But our wiſe Crout or hath put the Bar of Fleſh and Blood, and ſenfual. Ap<g ref="char:EOLhyphen"/>petite betwixt; and commands, that we ſhould at leaſt be contented to wait his good Leiſure of calling us to himſelf. But, although to haſten our own Paſſage by violent Means, be in effect to ſhut our ſelves out from Heaven for ever; yet ſince we have theſe Hopes and Promiſes to ſupport us in the Conflict, we ought methinks at leaſt not tamely to bewail and deprecate that very thing, which muſt put us into the actual poſſeſſion of our Hopes. For is it noſtrange Inſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uation to be in love with Labour and Hazard to be ſorry
+<pb n="20" facs="tcp:64459:11"/>that the Evening, the time of receiving our Wa<g ref="char:EOLhyphen"/>ges is come? and all this upon that idle and vul<g ref="char:EOLhyphen"/>gar Pretence, that Death is the gaſtly Deſtroyer of Mankind, and the King of Terrors; whereas in truth he is ſo only to the Guilty and the Unpre<g ref="char:EOLhyphen"/>pared. But ſerious Piety, and Peace with God, and a quiet Conſcience, Theſe have the power to make him tame and gentle, They overcome and bind that grim <hi>ſtrong Man, and take from him all his Armour wherein he truſted.</hi>
+            </p>
+            <p>Again. The ſame Conſideration which ought to have ſuch Efficacy in removing theſe Fears for our ſelves, does likewiſe extend it ſelf to ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Griefs for Others. Our immoderate Griefs I mean; For Chriſtianity places no Excellence in the ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fling all natural Affection, and rendring Men <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſenſible of any tender Impreſſions. It only r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>quires that the Rein ſhould be kept always in o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> own hands, and, when that Debt of Tears is paid, which Nature and Decency require, that we ſhould then ſuffer our Minds to be compoſed by Reaſon, and hearken to the Corrections and Comforts of Religion. And what can adminiſter more ſubſtan<g ref="char:EOLhyphen"/>tial, more ſucceſsful Comfort, than to conſider the Joys of Eternity, and, that the Friends who<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> abſence we deplore, are removed to the Compa<g ref="char:EOLhyphen"/>ny of Saints and Angels, to the bleſſed Preſence of the Almighty, to the ſame happy Manſions of pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fect Knowledge, and Love, and Joy, with the So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Lamb of God himſelf? That they are no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> above the Hazards of Fortune, the Troubles, and Cares, and Perplexities of the World, and (which is beſt of all) freed from all danger of o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ending
+<pb n="21" facs="tcp:64459:11"/>God, and wounding their own Conſciences by Sin any more. If we have a ſerious Belief, that ſuch is the Condition of our deceaſed Brethren, and yet all This will not appeaſe our Sorrows, how juſt is that reproach of <hi>Abſalom</hi> to <hi>Huſhai</hi> upon a<g ref="char:EOLhyphen"/>nother occaſion,
+<note place="margin">2 Sam. xvi. 17.</note> 
+               <hi>Is this thy kindneſs for thy Friend?</hi> a Does it become the Tenderneſs of a Relation, to lament without ceaſing, not like her in the Pro<g ref="char:EOLhyphen"/>phet, for <hi>thoſe that are not,</hi> but for thoſe who now have begun to be in Perfection, Who after the Waves and Toſſings of a tempeſtuous World, are now themſelves rejoycing, becauſe they are at reſt, and God hath brought them to that Haven, where They and every good Chriſtian would be. Let us then in ſuch caſe ſuppoſe, that we hear the releaſed Soul admoniſhing us, in our Saviour's Terms to the Daughters of <hi>Jeruſalem,
+<note place="margin">Luke xxiii. 28</note> Weep not for me, but weep for your ſelves:</hi> For our Selves in<g ref="char:EOLhyphen"/>deed, who are ſtill floating upon the Billows, dri<g ref="char:EOLhyphen"/>ven to and fro by the violent Guſts of Paſſions and Luſts, of Cares and Temptations, and in con<g ref="char:EOLhyphen"/>tinual danger of making ſhipwrack of faith and a good Conſcience. In a word, 'Tis eaſie to con<g ref="char:EOLhyphen"/>vince our ſelves, how abſurd all Exceſſes of this kind muſt needs be, by this single Reflection; That the End of all God's Promiſes, and our own moſt painful Endeavours, is to put Us hereafter into That which we believe to be Their Condition now. And, (O monſtrous Inconſiſtence of extravagant Paſſion!) we refuſe to be comforted, becauſe They are what We, when in our right Mind, would give ten thouſand Worlds to be: Bleſſed for evermore far above all our Imaginations, far above all their own Hopes.</p>
+            <pb n="22" facs="tcp:64459:12"/>
+            <p>In the mean while, till God's own good time come of making Us ſo too, let us remember in the <hi>Fourth</hi> and laſt place, that this Inheritance, as im<g ref="char:EOLhyphen"/>porting the Sufficiency of that Proviſion made for us by our Heavenly Father, ought to inſpire us with Meekneſs and Contentment under any Di<g ref="char:EOLhyphen"/>ſpoſals of Providence in this preſent Life. What St. <hi>Paul</hi> tells the <hi>Galatians,</hi>
+               <note place="margin">Gal. iv. 1, 2.</note> that <hi>the Heir, ſo long as he is a Child, differeth nothing from a Servant, though he be Lord of all, but is under Tutors and Governors, until the time appointed of the Father,</hi> is equally applyable to our Caſe. We are here in a State of Nonage and Education, under the wise diſcipline of One, who nicely underſtands our se<g ref="char:EOLhyphen"/>veral Tempers, and ſutes his Methods according<g ref="char:EOLhyphen"/>ly. Some are of ingenuous and eaſie Diſpoſitions and Them he wins by ſoft indulgent means, O<g ref="char:EOLhyphen"/>thers are rugged and tough, and to Thoſe a firm<g ref="char:EOLhyphen"/>er hand is neceſſary: And if a Third ſort, not to be wrought upon either way, do not yet feel the Rod ſo often as their Fellows, this is not because they deſerve it leſs, but becauſe they are given o<g ref="char:EOLhyphen"/>ver as incorrigible. By this eaſie and familiar Al<g ref="char:EOLhyphen"/>luſion, we are taught what Interpretations to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of God's Providence, and how to juſtifie the dif<g ref="char:EOLhyphen"/>ferent Proceedings of it toward us. Imagine w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> your ſelves, what an accompliſh'd Generation we ſhou'd have, if the Fondneſs of Mothers, and the Humours of Children were to preſcribe Rules of Education; and then you cannot but diſcover a<g ref="char:EOLhyphen"/>bundant reaſon for ſubmitting to the Diſpoſals of a Father, who tempers his tendereſt Affection with unerring Prudence.</p>
+            <pb n="23" facs="tcp:64459:12"/>
+            <q>Nam pro jucundis aptiſſima quaeque—</q>
+            <p>Almighty God weighs our Caſe and our Wants; He aims not ſo much at our Eaſe as our Improve<g ref="char:EOLhyphen"/>ment, and diſtributes ſuch things, and in ſuch Meaſures, as he ſees moſt proper and profitable; without troubling himſelf to conſider what would be moſt acceptable. He admits of no ſuch Heirs, as are a Scandal to their Eſtates, and a Reproach to their Families; but trains all his true Sons up in the School of Piety and Virtue, teaches them to underſtand the value of their Portion, and brings them to a reſemblance of their Father. When they are ripen'd th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for Heaven, and made fit Company for Saints and Angels, he then re<g ref="char:EOLhyphen"/>ceives them to himſelf, and abundantly compen<g ref="char:EOLhyphen"/>ſates the ſhort Hardſhips of their Education, by putting into their hands the Fruit and End of all their Patience, even their glorious and eternal Inheritance.</p>
+            <p>I have now finiſhed what I deſigned from the Text, and ſhall not fear that you'll think I detai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you too long upon my Third General Head, which relates to the Occaſion of our preſent Meeting.</p>
+            <p n="3">III. The proper End of Diſcourſes of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, I never took to be that of framing nauſeou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nygyricks upon our departed Friends: If any thing can add to the inde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ency of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ttery from a Pul<g ref="char:EOLhyphen"/>pit, it is the employing it, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Perſons of a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> feſſion, which of all others ought <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt above it. But, al<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this Conſi<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <pb n="24" facs="tcp:64459:13"/>and ought to temper what I have to ſay; yet, when God hath given us the Advantage of excellent Ex<g ref="char:EOLhyphen"/>amples, it may juſtly ſeem Ingratitude to Him, and Injuſtice to our ſelves, not to mention ſome part at leaſt of thoſe Commendable Qualities, which Good Men have left behind them, as a Pattern worthy our diligent Imitation.</p>
+            <p>The Audience and Place in which I ſtand may ſeem more particularly to require This at my hands; which yet I ſhall endeavour ſo to manage, that You, who have had the Happineſs of a longer and more intimate Acquaintance with our decea<g ref="char:EOLhyphen"/>ſed Brother, than my ſelf, ſhall not only bear wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſs to the truth of it, but confeſs at the ſame time, that I bear a due regard to the Modeſty ſo pec<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ar in Him, whoſe Virtues I am about to give a ve<g ref="char:EOLhyphen"/>ry brief and imperfect Repreſentation of. And to make the ſhort remainder of my Diſcourſe the more methodical and of a Piece with what hath gone before; it ſhall be my care to conſine my ſelf to thoſe particular Effects, which I told you this Conſideration of Eternal Happineſs being propoſed in the quality of an Inheritance ought in all reaſon to have upon every one of us.</p>
+            <p>The <hi>Firſt</hi> of Theſe, you well remember, was juſt Value, and profound Veneration for the Holy Scriptures. And how agreeable This was to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Character, not You alone, who liv'd under <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more immediate Care, and enjoy'd the Benefit of a long and painful Miniſtry from him, but the Na<g ref="char:EOLhyphen"/>tion in general have been convinc'd by thoſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thy Labours, which appear in Publick W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tings, ſo much the more valuable, as the Subject and
+<pb n="25" facs="tcp:64459:13"/>Deſign of them is of greater and more general Im<g ref="char:EOLhyphen"/>portance, That of eſtabliſhing the moſt concerning Truths of the Chriſtian Religion; and illuſtrating thoſe common Principles, which our Excellent Church hath thought neceſſary for forming the Lives and Judgments of all her Members. And this he hath done, if not by all the artful and enticing Words of Man's Wiſdom, yet with ſolid and ſubſtantial Arguments from Reaſon, with pro<g ref="char:EOLhyphen"/>per Authorities from Scripture and Antiquity, and with ſuch happy Force and full Conviction, as to deſerve a Recommendation from one of our
+<note n="*" place="margin">
+                  <hi>Lord Biſhop of</hi> Sarum <hi>in his</hi> Paſtoral Care.</note> Re<g ref="char:EOLhyphen"/>verend Prelates, for the Study and Inſtruction of thoſe, whoſe buſineſs it is to inſtruct others. To render his indefatigable Pains of yet more diffu<g ref="char:EOLhyphen"/>ſive Influence, he hath likewiſe compoſed a
+<note n="†" place="margin">Tractat. in Epiſt. ad Philipp.</note> Tract in a Language more generally underſtood, which not only our own, but other Countries may I hope ſhortly reap the benefit of. In a Word, His Time was employ'd, and his Delight ſeem'd wholly to be placed in Divine Studies; Theſe were his Buſi<g ref="char:EOLhyphen"/>neſs, his Entertainment, his Company, his Diver<g ref="char:EOLhyphen"/>ſion; So careful was he to employ the Hours of a moſt retir'd Life, in the beſt and moſt beneficial manner; Theſe were his Comfort in Afflictions, his Support under Hardſhips and Cares; Theſe preſerv'd his Mind from all criminal degrees of Anxiety, and, (as himſelf hath profeſſed with great Satisfaction) ſoftned thoſe Troubles which a Man more addicted to the World muſt even have been ſwallow'd up in; But by Their means his Soul was diſengag'd, and raiſed above the World, and his Converſation in Heaven: Happily indeed
+<pb n="26" facs="tcp:64459:14"/>for himſelf, tho' in the common Judgment of Fleſh and Blood leſs ſo for thoſe he left behind, ſince thoſe unwearied Labours, which manifeſtly contributed to his more ſpeedy removal thither, hath deprived Them of his longer Direction and Aſſiſtance upon Earth.</p>
+            <p>The <hi>Second</hi> good Effect I mentioned, as natural<g ref="char:EOLhyphen"/>ly flowing from my Text, was That of an Obe<g ref="char:EOLhyphen"/>dience full of Thankfulneſs and Humility. And this appear'd ſo eminently in Him, that notwithſtand<g ref="char:EOLhyphen"/>ing all the Goodneſs ſo conſpicuous in his Conver<g ref="char:EOLhyphen"/>ſation, no ſign of Cenſoriouſneſs or Spiritual Pride was to be found in him. But, though this Particular relate more immediately to Men's deportment to<g ref="char:EOLhyphen"/>wards God, yet I muſt beg leave in the Applicati<g ref="char:EOLhyphen"/>on to extend it ſomething farther.</p>
+            <p>Gratitude to God is due, not only for Spiritual, but Temporal Mercies; for He is our Great Bene<g ref="char:EOLhyphen"/>factor, and the ſole Author of all our Bleſſings of every kind. And, Since thoſe Bleſſings are of<g ref="char:EOLhyphen"/>ten convey'd to us by the miniſtry and mediation of Men, no Man can be truly thankful, who is wanting in his Acknowledgments to thoſe Perſons, whoſe Hearts God hath diſpoſed to become the Inſtruments of handing down his Kindneſs to us. Here alſo our deceaſed Brother performed the part of a truly good Chriſtian, and took due Care to let no good Offices of any ſort be buried in Ob<g ref="char:EOLhyphen"/>livion. He cou'd not content himſelf with a ſi<g ref="char:EOLhyphen"/>lent and private Senſe of them, but had in parti<g ref="char:EOLhyphen"/>cular prepared
+<note n="*" place="margin">Epiſt. Dedi<g ref="char:EOLhyphen"/>cator. <hi>to his Tract on the</hi> Philipp. <hi>to Archbiſhop</hi> Tillotſon.</note> a laſting and publick Expreſſion of his Thanks, to our late Excellent Primate; Who, among other Marks of his Care to prefer worthy
+<pb n="27" facs="tcp:64459:14"/>and uſeful Men, procur'd his promotion to another Benefice, and endeavour'd to make his Worth more viſible, by placing him in our Capital City. Nor did he think it any Indecency, in an Addreſs to ſo Great a Man, to make grateful and honourable mention of that ſeaſonable Addition to his For<g ref="char:EOLhyphen"/>tunes, made by a
+<note n="*" place="margin">
+                  <hi>Dr.</hi> Tudor, <hi>late Rector of</hi> Tewing <hi>in</hi> Hertfordſhire</note> Reverend Perſon in this Neigh<g ref="char:EOLhyphen"/>bourhood. So ſollicitous was he upon all Occaſi<g ref="char:EOLhyphen"/>ons, that no Man's Friendſhip, who had remem<g ref="char:EOLhyphen"/>ber'd him, ſhould leave behind it the Reproach of not being as reſpectfully tranſmitted to Poſteri<g ref="char:EOLhyphen"/>ty, as it had been worthily placed at the firſt Di<g ref="char:EOLhyphen"/>ſpoſal.</p>
+            <p>Thus again; His Humility gave a peculiar luſtre to the reſt of his. Accompliſhments: For in the midſt of all thoſe Endowments both Natural and Acquir'd, he ſeem'd the only Perſon inſenſible of his own Worth. His Temper was Eaſie and Gen<g ref="char:EOLhyphen"/>tle, ſo engaging and inoffenſive, as to win over even Strangers, and Men of different Opinions, to a ſenſible Concern and Kindneſs for him: His Converſation Affable and Courteous, full of De<g ref="char:EOLhyphen"/>ference and modeſt Reſerve: And, which of all other Qualities beſt proves a true Greatneſs of Soul, ſo Free and Communicative, and Improving withal, ſo perfectly void of Envy, and engroſſing any ſort of Knowledge or Commendation to him<g ref="char:EOLhyphen"/>ſelf, that he ſeem'd to have copy'd after that great Pattern of Meekneſs, <hi>Moſes,</hi> who
+<note n="*" place="margin">Numb. xi.</note> rebuked the Narrowneſs of thoſe Spirits, who grudged the Ad<g ref="char:EOLhyphen"/>vantages of others for his ſake, and wiſh'd with all his Soul, that <hi>all the Lord's People were Prophets.</hi>
+            </p>
+            <pb n="28" facs="tcp:64459:15"/>
+            <p>
+               <hi>Thirdly.</hi> Another Virtue reſulting from the Text, was abating the Fears of our own Death, and moderating our Concern for That of Others. Of the former, that general Reſignation of Tem<g ref="char:EOLhyphen"/>per, very obſervable in him upon all Occaſions, was an abundant Proof; and that Indifference for Life, which I have often heard him chearfully expreſs, excepting only for the ſake of Thoſe, whom yet he committed to God, with a becoming Dependence upon his Providence over them. And more bright no doubt this Virtue wou'd have ſhone in his laſt Hours, had not the Diſeaſe of which he dy'd, ſo violently attack'd his Underſtanding, and left him only ſome few, and thoſe very ſhort In<g ref="char:EOLhyphen"/>tervals for the exerciſe of it: So few, and ſo ſhort, as allow'd no time ſufficient for the Performance of thoſe Duties moſt neceſſary and uſual in his Condition. But we ought in all Reaſon and Cha<g ref="char:EOLhyphen"/>rity to preſume, that, as his Life was the Life of the Righteous, ſo had the Faculties of his Mind been free, his Death wou'd, in a very exemplary manner, have manifeſtly appeared to be the Death of the Righteous too.</p>
+            <p>For the other Branch of this Argument, Many here preſent, I ſuppoſe, can recollect, with what a Mix<g ref="char:EOLhyphen"/>ture of tender Affection and Chriſtian Conſtancy he ſupported the loſs of his neareſt and deareſt Relation; And this too, though it found him then ſmarting under the freſh deep Wound of a ſad and
+<note n="*" place="margin">A Son drown<g ref="char:EOLhyphen"/>ed in the Mote of his Houſe.</note> ſurprizing Diſaſter; and happen'd at a time, when upon all other Conſiderations the Circumſtances of his Family could not but render that Blow very ſenſible and heavy upon him. One Inſtance where<g ref="char:EOLhyphen"/>of
+<pb n="29" facs="tcp:64459:15"/>relating to my ſelf, I muſt beg your leave to mention: 'Tis, that preſently upon that occaſion, proffering him my Aſſiſtance in the ſupply of his Cure, he made me this (to me then) ſurprizing Anſwer, That Bleſſed be God for his Grace, he had ſoon con<g ref="char:EOLhyphen"/>quer'd the diſorderly part of his Grief, and found no Relief ſo great as employing himſelf in his Study, and the attendance upon his Duty. This I confeſs to One who thought it always common and eaſie for Men to talk like Philoſophers, but rare and difficult to be ſo in good earneſt, gave me that Idea of his Piety, and Patience, and Firm<g ref="char:EOLhyphen"/>neſs of Mind, which made me then begin to know the Man, and raiſed my Honour for him ever after.</p>
+            <p>
+               <hi>Laſtly,</hi> The only remaining Inference, That of Contentedneſs with the Diſpoſals of Almighty God in this World, was likewiſe very viſible and exem<g ref="char:EOLhyphen"/>plary in him. That equality of Mind, with which he ſtruggled under a narrow Fortune, and a nu<g ref="char:EOLhyphen"/>merous Family, many now preſent muſt needs be well acquainted with; and a Temper, ſo far from Greedy, that even in things of right his own, he rather choſe to depart from what he could ill be without, than have recourſe to Rigour and extreme Juſtice. He hath frequently declared, that he want<g ref="char:EOLhyphen"/>ed no increaſe of Honour or Preferment for him<g ref="char:EOLhyphen"/>ſelf, but purely for the ſake of his Children; nor did he upon Their Account deſire more than might preſerve them from Contempt, and ſet them above the Temptations of Want and hard Ne<g ref="char:EOLhyphen"/>ceſſity. And This was ſo modeſt and ſo remarka<g ref="char:EOLhyphen"/>ble in a Perſon of ſuch Learning and Labour in his Profeſſion, that it engag'd Mens Wiſhes at leaſt,
+<pb n="30" facs="tcp:64459:16"/>and Affections, in his Favour: Inſomuch that He, I believe, was one of thoſe few, whoſe any Addi<g ref="char:EOLhyphen"/>tions of Good Fortune gave a general Satisfaction, and inſtead of envying, every body who knew him, wou'd have rejoyced to have ſeen them more and greater.</p>
+            <p>What now remains, but that Each of us from hence gather ſuch Inferences, as may make this Ex<g ref="char:EOLhyphen"/>ample of Benefit to us, by applying it to our own reſpective Circumſtances: More particularly,</p>
+            <p n="1">1. That You, firſt, the Orphans of this Decea<g ref="char:EOLhyphen"/>ſed, imitate his Patience and Meekneſs, and Holy Reſignation to the Will of God: His Charity, and Juſtice, and great Induſtry. <hi>The Generation of the Righteous ſhall be bleſſed,</hi> and <hi>a good Man leaveth an Inheritance for his Children,</hi> ſays the Scripture. Even the beſt of all Inheritances, the Love and tender Regard of him, who is the Father of the Fatherleſs. Think not then his Virtues are loſt and buried with him; no, They will live, and, as He, We ought not to doubt, now reaps the unſpeakable Advantage of them in Heaven, ſo will they ſhed a happy Influence upon You on Earth too; Provi<g ref="char:EOLhyphen"/>ded always, that they live in your Practice and careful Imitation alſo; and keep you effectually from all things, which would be a Reproach to the Children of ſuch a Father.</p>
+            <p n="2">2. That You next of this Pariſh ſeriouſly conſi<g ref="char:EOLhyphen"/>der, how far you are accountable for the long and laborious Miniſtry of ſuch a Paſtor; that a faith<g ref="char:EOLhyphen"/>ful and painful Guide of Souls, is One very con<g ref="char:EOLhyphen"/>ſiderable, among thoſe Talents, which God will reckon with Men for at the laſt Day. And there<g ref="char:EOLhyphen"/>fore
+<pb n="31" facs="tcp:64459:16"/>it highly concerns you to recollect and pra<g ref="char:EOLhyphen"/>ctice thoſe Doctrines, with a Diligence proportio<g ref="char:EOLhyphen"/>nable to His that inculcated them: For, if ſo much good Seed through your neglect produce not much good Fruit, the Ground, aſſure your ſelves, will be curſed and condemned for its Bar<g ref="char:EOLhyphen"/>renneſs: And the more you might have learned and done; by the Influence of ſuch Inſtruction and ſuch an Example, the heavier ſhall Your Account be, and the more deſervedly dreadful Your Con<g ref="char:EOLhyphen"/>demnation.</p>
+            <p n="3">3. That We, <hi>Thirdly,</hi> who have the Honour of the ſame Profeſſion, do, like him, dedicate our Lives and Labours entirely to the Service of God, and the Promotion of his Glory, by ſetting for<g ref="char:EOLhyphen"/>ward the love and practice of Virtue, and the Sal<g ref="char:EOLhyphen"/>vation of Mankind. Eſpecially, that we make it our chief Care to eſtabliſh and ſecure the eſſential and moſt neceſſary parts of Religion; which the ſhameleſs Inſolence and Impiety of the profligate Age we live in, ſeems now, as much as ever, to require from us. And, though all of us cannot do this with His Learning and Abilities, yet it will be our own Fault, if we do not all attempt it with a Diligence and Zeal equal to His. Which if we do, our faithful Endeavours will be accept<g ref="char:EOLhyphen"/>ed and approved, even of Men; but if this Expe<g ref="char:EOLhyphen"/>ctation ſhould fail us too, and we find our ſelves unable to effect the Good we intend, yet it is In<g ref="char:EOLhyphen"/>couragement ſufficient for us, <hi>to abound in the Work of the Lord, that we are ſure our Labour ſhall not, cannot be in vain in the Lord.</hi>
+            </p>
+            <pb n="32" facs="tcp:64459:17"/>
+            <p>With theſe Reflections and Holy Reſolutions, let us commit the mortal Remains of this Reverend, Worthy, Good Man, to the Duſt, <hi>In ſure and cer<g ref="char:EOLhyphen"/>tain hope of a Reſurrection to Life Eternal;</hi> and that, if we be careful, thus as you have heard, to ap<g ref="char:EOLhyphen"/>prove our ſelves <hi>God's Children,</hi> we ſhall not fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l in his due time, to be made in the beſt, the moſt beneficial, and moſt perfect and glorious Senſe of the Text, <hi>Heirs of God, and Joynt-Heirs of Child. Which he of his infinite Mercy grant for the ſake of the Same Jeſus Chriſt his Dear Son and our P<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Saviour: To whom with the Father and Holy Spirit, Three Perſons and One God, be all Honour and Glory, Thanksgiving and Praiſe now and for evermore.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>SEcond Remarks upon an Eſſay concerning <hi>Humane Underſtanding;</hi> In a Letter addreſs'd to the Author. Being a Vindication of the <hi>Firſt Remurks,</hi> againſt the Anſwer of Mr. <hi>Lock,</hi> at the End of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Reply to the Lord Biſhop of</hi> Worceſter.</p>
+            <p>The <hi>Occaſional Paper:</hi> Numb. I. II. III. IV. V. VI. VII.</p>
+            <p>
+               <hi>Printed for</hi> M. Wotton, <hi>at the</hi> Three Daggers <hi>in</hi> Fleetſtreet.</p>
+            <pb facs="tcp:64459:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
